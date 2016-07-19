@@ -35,6 +35,10 @@ namespace EffortInheritance.Tests
       }
     }
 
+    /// <summary>
+    /// Note that this test currently fails, because it seems like Effort.Extra doesn't support inheritance.
+    /// See https://github.com/christophano/Effort.Extra/issues/8 for details.
+    /// </summary>
     [Test]
     public void SelectCars_WithObjectDataLoader()
     {
