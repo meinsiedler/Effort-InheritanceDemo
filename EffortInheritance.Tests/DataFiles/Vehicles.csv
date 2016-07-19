@@ -1,0 +1,4 @@
+﻿Id,Name,Power,MaxPayload,Discriminator
+1,"Volkswagen Beetle",34,,"Car"
+2,"Citroen 2CV",28,,"Car"
+3,"Airbus A380",,66400,"Plane"

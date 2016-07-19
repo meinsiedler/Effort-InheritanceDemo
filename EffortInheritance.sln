@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EffortInheritance", "EffortInheritance\EffortInheritance.csproj", "{334F9695-C404-48AB-883E-C1C332CA03AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EffortInheritance.Tests", "EffortInheritance.Tests\EffortInheritance.Tests.csproj", "{7407B13D-2C15-4A3B-BB0C-279F3CF84008}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{334F9695-C404-48AB-883E-C1C332CA03AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{334F9695-C404-48AB-883E-C1C332CA03AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{334F9695-C404-48AB-883E-C1C332CA03AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{334F9695-C404-48AB-883E-C1C332CA03AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7407B13D-2C15-4A3B-BB0C-279F3CF84008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7407B13D-2C15-4A3B-BB0C-279F3CF84008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7407B13D-2C15-4A3B-BB0C-279F3CF84008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7407B13D-2C15-4A3B-BB0C-279F3CF84008}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
